@@ -1,13 +1,13 @@
 {
     "images": [
       {
-        "path": "images/nematode_a.png",
+        "path": "images/case1.jpg",
         "latitude": 33.96937,
         "longitude": -118.41469,
         "yaw": 180
       },
       {
-        "path": "images/nematode_c_p.png",
+        "path": "images/case2.jpg",
         "latitude": 33.96929,
         "longitude": -118.41473,
         "yaw": 180
